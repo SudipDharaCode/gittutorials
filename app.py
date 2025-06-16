@@ -1,2 +1,2 @@
-user_int = input("Enter Number:")
+user_int = 'sudip'
 print(user_int)
